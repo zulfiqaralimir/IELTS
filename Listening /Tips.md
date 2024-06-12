@@ -32,4 +32,7 @@
 * Promote
 * Outbreake
 * Retention
+* Abide by
+* Resillience
+* 
 
