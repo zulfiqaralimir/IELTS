@@ -11,4 +11,8 @@
 * Debris
 * Sustainability
 * Ameture
-* Foster
+* Foster (encourage)
+* Likewise
+* deploy
+* _tackle_
+* redundant (no onger useful)
