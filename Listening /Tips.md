@@ -33,6 +33,7 @@
 * Outbreake
 * Retention
 * Abide by
-* Resillience
+* Resillience (ability to recover quickly from difficulties)
+* decline
 * 
 
