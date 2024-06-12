@@ -16,3 +16,7 @@
 * deploy
 * _tackle_
 * redundant (no onger useful)
+* apparently (obviously)
+* contaminate (to pollute)
+* steer away from / steer clear of (avoid something/someone)
+* Otherwise 
