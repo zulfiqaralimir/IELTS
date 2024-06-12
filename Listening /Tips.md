@@ -19,4 +19,17 @@
 * apparently (obviously)
 * contaminate (to pollute)
 * steer away from / steer clear of (avoid something/someone)
-* Otherwise 
+* Otherwise
+* Assess (evaluate)
+* Compile
+* Property
+* Generate
+* Threat
+* Target
+* Vigorous (Healthy)
+* Guidelines
+* By-product
+* Promote
+* Outbreake
+* Retention
+
