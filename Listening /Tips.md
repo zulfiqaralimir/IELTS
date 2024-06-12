@@ -6,4 +6,7 @@
 * Abundant(a lot)
 * Roughly (approximitly. about)
 * Conquer
-* Vulnerable
+* Vulnerable (susceptible)
+* Taxonomy (Group Organising)
+* Debris
+* Sustainability
