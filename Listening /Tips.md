@@ -10,5 +10,5 @@
 * Taxonomy (Group Organising)
 * Debris
 * Sustainability
-Ameture
-Foster
+* Ameture
+* Foster
