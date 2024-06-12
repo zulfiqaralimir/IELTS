@@ -12,3 +12,8 @@ This repository contains resources and materials to help prepare for the IELTS e
 
 ### _1-18 Series of Practice Books - GoogleDrive_
 (https://drive.google.com/drive/u/0/folders/1Dw6JpVUSOA354VEkCgCI3PLj0N_MShQw?fbclid=IwAR1yqPUo4FV-OtrG33ZEXwZEizpYH8d8as0zceOk1riB4irPM54wyC0OTkA)
+
+
+
+![image](https://github.com/zulfiqaralimir/IELTS/assets/68346772/9da645c1-7cd9-46aa-a8c5-0aa12d2fa620)
+
