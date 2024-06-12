@@ -34,6 +34,11 @@
 * Retention
 * Abide by
 * Resillience (ability to recover quickly from difficulties)
-* decline
-* 
+* decline (deminish)
+* foreseeable
+* outline
+* Stem from
+* A range of
+* Database
+* ultimately
 
