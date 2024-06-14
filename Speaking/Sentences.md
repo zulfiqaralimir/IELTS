@@ -1,6 +1,6 @@
 ## Compound vs Complex Sentences
 
-### Compound Sentences:
+### Compound Sentences (Coordinating Conjunction):
 
 * **I wanted to go for a run, but it started raining heavily.**
 
@@ -15,7 +15,7 @@ Here, "She enjoys playing tennis" and "he prefers swimming" are two independent 
 "The movie was entertaining" and "it didn't live up to my expectations" are two independent clauses connected by the coordinating conjunction "yet."
 
 
-### Complex Sentences:
+### Complex Sentences (Subordinating Conjunction):
 
 * **Although she studied hard, she didn't pass the exam.**
 
