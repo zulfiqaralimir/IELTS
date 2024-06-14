@@ -30,3 +30,10 @@ In this complex sentence, "He couldn't attend the meeting" is the independent cl
 * **Since it was late, we decided to stay overnight.**
 
 "Since it was late" is the dependent clause (subordinate clause), and "we decided to stay overnight" is the independent clause. They are connected by the subordinating conjunction "since."
+
+## Coordinating Conjunctions:
+
+### For  And  Nor  But Or Yet  So
+
+## Subordinating Conjunctions:
+### After  Although  As  Because  Before  If  Since  Than  Though  Unless  Until  When  While
