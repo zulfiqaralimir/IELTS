@@ -1,4 +1,5 @@
 ## Compound vs Complex Sentences
+In everyday conversations, people often mix these sentence structures naturally to convey their thoughts clearly and effectively. The key is to use them appropriately based on the relationship between ideas you want to express. Using a mix of compound and complex sentences helps to vary sentence structure, *making your speech more interesting and nuanced.*
 
 ### Compound Sentences (Coordinating Conjunction)(Independent Clauses):
 
