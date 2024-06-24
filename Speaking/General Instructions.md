@@ -20,4 +20,13 @@ Consistency: The tone, style, and terminology are consistent throughout the comm
 While fluency and coherence are distinct, they are interrelated. A fluent speaker or writer may produce language smoothly, but if the content is not coherent, the message may be difficult to understand. Conversely, a coherent presentation of ideas that is disjointed and halting can also hinder effective communication. Ideally, effective communication balances both fluency and coherence, allowing the speaker or writer to convey ideas clearly, logically, and smoothly.
 
 (https://ieltsonlinetests.com/)
+
+(https://www.bestmytest.com/ielts/speaking)
+
 5 Common Topics
+
+i have seen people using elsaspeak too. its an AI application i guess for  speaking. i have not tested it yet. but from the reviews it seems sufficient for practicing IELTS speaking.
+
+I noticed overall ielts books are the best resources ever
+
+all these tips don't matter a lot. until you start solving. i made this mistake too previously. wasted one month without practice.
