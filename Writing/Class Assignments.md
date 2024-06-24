@@ -1,3 +1,5 @@
+https://www.ielts-mentor.com/writing-sample/writing-task-2/3815-advertising-is-extremely-successful-at-persuading-us-to-buy-things
+
 June 24, 2024
 ### Cambridge Book 15 Page 72; Sample Answer Page 134   (https://drive.google.com/file/d/1rZsVE3TNRtLoBXSVp0jataaFHFW8BNIj/view)
 
