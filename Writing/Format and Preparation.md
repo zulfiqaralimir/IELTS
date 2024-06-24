@@ -1,3 +1,14 @@
+Key Strategies:
+Use
+* Cause and Effec
+* Pairs of Word
+* Synonmys and Antonyms
+* Phrases Types
+* Sentence Structures
+* Adjective and Adverbs
+* Data Driven
+* Key Words / Phrases
+
 # Discussion Essay: The Effectiveness of Advertising
 The type of writing for this prompt is a discussion essay. A discussion essay presents multiple viewpoints on an issue, discusses the evidence for and against each viewpoint, and provides the writer's own opinion.
 
