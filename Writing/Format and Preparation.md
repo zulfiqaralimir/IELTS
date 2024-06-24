@@ -1,6 +1,6 @@
 ### Key Strategies:
 Use
-* Cause and Effec
+* Cause and Effect
 * Pairs of Word
 * Synonmys and Antonyms
 * Phrases Types
