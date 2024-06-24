@@ -19,5 +19,5 @@ Consistency: The tone, style, and terminology are consistent throughout the comm
 ## Relationship Between Fluency and Coherence
 While fluency and coherence are distinct, they are interrelated. A fluent speaker or writer may produce language smoothly, but if the content is not coherent, the message may be difficult to understand. Conversely, a coherent presentation of ideas that is disjointed and halting can also hinder effective communication. Ideally, effective communication balances both fluency and coherence, allowing the speaker or writer to convey ideas clearly, logically, and smoothly.
 
-
+(https://ieltsonlinetests.com/)
 5 Common Topics
