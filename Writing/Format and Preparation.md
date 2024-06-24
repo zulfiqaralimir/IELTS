@@ -1,4 +1,4 @@
-Key Strategies:
+### Key Strategies:
 Use
 * Cause and Effec
 * Pairs of Word
