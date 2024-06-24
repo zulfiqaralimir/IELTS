@@ -1,4 +1,5 @@
 # Discussion Essay: The Effectiveness of Advertising
+The type of writing for this prompt is a discussion essay. A discussion essay presents multiple viewpoints on an issue, discusses the evidence for and against each viewpoint, and provides the writer's own opinion.
 
 ## Introduction
 - **Introduce the topic**: Briefly introduce the topic of advertising and its role in persuading consumers.
