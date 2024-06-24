@@ -1,3 +1,5 @@
+(https://www.facebook.com/iCodeguru/videos/1045086130557856)
+
 ## Fluency
 Fluency refers to the ability to express oneself easily and articulately. In language learning, fluency is often associated with the smooth and rapid production of speech or writing without undue hesitation or pausing. Key characteristics of fluency include:
 
