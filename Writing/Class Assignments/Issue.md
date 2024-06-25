@@ -104,3 +104,4 @@ Some may argue that teaching children not to hit back could make them appear wea
 
 The increasing violence in playgrounds is a pressing issue that requires a multifaceted approach. Teaching children not to hit back at bullies is a crucial component of this approach, promoting non-violent conflict resolution, preventing escalation, and instilling important values. However, it should be complemented with additional strategies such as conflict resolution training, confidence-building, and improved supervision. By adopting a comprehensive approach, we can create a safer and more respectful environment for all children, ensuring that playgrounds remain spaces for joy, play, and positive interactions.
 
+## GRE Words
