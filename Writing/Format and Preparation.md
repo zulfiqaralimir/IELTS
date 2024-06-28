@@ -1,5 +1,3 @@
-![image](https://github.com/zulfiqaralimir/IELTS/assets/68346772/b971d7fb-abfb-463b-b08a-0139a7733e8e)
-
 **Writing**
 
 This test consists of two tasks. It is suggested that candidates spend about 20 minutes on Task 1, which requires them to write at least 150 words, and 40 minutes on Task 2, which requires them to write at least 250 words. Task 2 contributestwice as much as Task 1 to the Writing score.
