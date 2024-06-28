@@ -1,3 +1,6 @@
+![image](https://github.com/zulfiqaralimir/IELTS/assets/68346772/b971d7fb-abfb-463b-b08a-0139a7733e8e)
+
+
 ### Key Strategies:
 Use
 * Cause and Effect
