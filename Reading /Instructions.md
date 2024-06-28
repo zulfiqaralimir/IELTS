@@ -1,0 +1,19 @@
+Reading Test Format:
+- **Three sections:** 40 questions in total.
+- **Text sources:** Journals, books, magazines, newspapers.
+- **Topics:** General interest, with at least one text containing a detailed logical argument.
+- **Question types:** 
+    - Multiple choice
+    - Identifying information (True/False/Not Given)
+    - Identifying the writer's views/claims (Yes/No/Not Given)
+    - Matching information
+    - Matching headings
+    - Matching features
+    - Matching sentence endings
+    - Sentence completion
+    - Summary completion
+    - Note completion
+    - Table completion
+    - Flowchart completion
+    - Diagram label completion
+    - Short-answer questions
