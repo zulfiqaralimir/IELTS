@@ -1,5 +1,16 @@
 ![image](https://github.com/zulfiqaralimir/IELTS/assets/68346772/b971d7fb-abfb-463b-b08a-0139a7733e8e)
 
+**Writing**
+
+This test consists of two tasks. It is suggested that candidates spend about 20 minutes on Task 1, which requires them to write at least 150 words, and 40 minutes on Task 2, which requires them to write at least 250 words. Task 2 contributestwice as much as Task 1 to the Writing score.
+
+Task 1 requires candidates to look at a diagram or some data (in a graph, table, or chart) and to present the information in their own words. They are assessed on their ability to organize, present and possibly compare data and are required to describe the stages of a process, describe an object or event, or explain how something works.
+
+In Task 2, candidates are presented with a point of view, argument, or problem. They are assessed on their ability to present a solution to the problem, present and justify an opinion, compare and contrast evidence and opinions, and evaluate and challenge ideas, evidence, or arguments. 
+
+Candidates are also assessed on their ability to write in an appropriate style. More information on assessing the Writing test, including Writing assessment criteria (public version), is available at ielts.org.
+
+
 
 ### Key Strategies:
 Use
