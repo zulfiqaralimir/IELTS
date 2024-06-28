@@ -1,5 +1,6 @@
 [IELTS Speaking CUE Cards - 5 Tips To Speak For 1 Minute By Asad Yaqub](https://www.youtube.com/watch?v=tcm07gTBWgA)
 ### CUE CARD is basically a **Description**
+* Look for **TENSE OF CUE CARD**
   
 In the IELTS Speaking test, particularly in the cue card section (Part 2), it's important to manage your speed effectively. Here are some tips to help you with your speed:
 
