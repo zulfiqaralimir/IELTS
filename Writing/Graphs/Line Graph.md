@@ -76,3 +76,13 @@ This format helps you structure your response logically, ensuring clarity and co
 - Optional section to provide a practical example or further illustration related to the data presented.
 
 This structure ensures that your response is organized and easy to follow, which is crucial for achieving clarity and coherence in your IELTS Writing Task 1 response.
+
+
+#### Tense Usage
+
+- **Introduction and Overview:** Use the **present tense** to introduce the graph and provide an overview of what it depicts. For example, "The graph illustrates changes in average monthly temperatures in London over a year, from January to December."
+
+- **Details/Body Paragraphs:** Use the **past tense** to describe specific data points and trends shown in the graph. For example, "Temperatures started at around 5°C in January and gradually rose to 20°C by July."
+
+- **Conclusion:** Use the **past tense** to summarize the key trends discussed. For example, "In conclusion, the graph highlighted seasonal variations with peaks in summer and lows in winter."
+
