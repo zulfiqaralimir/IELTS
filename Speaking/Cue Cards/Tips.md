@@ -67,3 +67,15 @@ What made this journey particularly memorable was the combination of the cultura
 - **Coherence:** Ensure your response is logical and easy to follow.
 
 Practicing responses like this can help you feel more prepared and confident during the actual test.
+
+
+### Expressions and Flow Words Used:
+
+- **Additionally:** to add extra information.
+- **Because:** to explain reasons.
+- **Moreover:** to add more details or points.
+- **All in all:** to summarize or conclude.
+- **Ultimately:** to emphasize the final outcome or conclusion.
+
+Using these expressions and flow words helps to link your ideas together smoothly, making your speech more coherent and engaging.
+
