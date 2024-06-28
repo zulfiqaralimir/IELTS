@@ -8,6 +8,9 @@ In Task 2, candidates are presented with a point of view, argument, or problem. 
 
 Candidates are also assessed on their ability to write in an appropriate style. More information on assessing the Writing test, including Writing assessment criteria (public version), is available at ielts.org.
 
+## MARKING THE PRACTICE TESTS
+The sample and model answers are on pages 127-137. It is not possible for you to give yourself a mark for the Writing tasks. We have provided sample answers (written by candidates), showing their score and the examiners' comments. We have also provided high-level model answers written by examiners. Additional sample and model answers can be downloaded from the Resource Bank. These sample and model answers will give you an insight into what is required for the Writing test.
+BOOK 18
 
 ### Key Strategies:
 Use
