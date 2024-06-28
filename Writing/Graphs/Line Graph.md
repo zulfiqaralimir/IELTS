@@ -86,3 +86,26 @@ This structure ensures that your response is organized and easy to follow, which
 
 - **Conclusion:** Use the **past tense** to summarize the key trends discussed. For example, "In conclusion, the graph highlighted seasonal variations with peaks in summer and lows in winter."
 
+### Writing Task 1: Sample Response - Line Graph
+
+#### Introduction
+- The line graph illustrates changes in the average monthly temperatures in London over a year, from January to December.
+
+#### Overview
+- Overall, temperatures show a clear seasonal pattern with peaks in summer and lows in winter. The range fluctuates between approximately 5°C in January and a peak of 20°C in July.
+
+#### Details/Body Paragraphs
+1. In January, temperatures started at around 5°C and gradually rose to 8°C by March. There was a notable increase from March to June, reaching a peak of 20°C in July. Summer months maintained consistently high temperatures before gradually declining from August onwards.
+
+2. Conversely, temperatures began to drop in September, falling sharply to around 10°C in November. The decline continued into December, where temperatures reached their lowest point at approximately 3°C.
+
+#### Conclusion
+- In conclusion, the graph highlights the seasonal variations in London's temperatures, with significant peaks in summer and troughs in winter. Understanding these patterns is crucial for planning activities and preparing for seasonal changes.
+
+#### Language Tips
+- Use of past tense for describing data.
+- Vocabulary: rise, peak, decline, fluctuate.
+- Linking words: gradually, sharply, before, after.
+
+#### Example
+- For instance, the temperature increase from March to June mirrored the onset of summer, affecting outdoor activities and tourism.
