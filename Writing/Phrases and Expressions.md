@@ -106,3 +106,34 @@ To introduce the topic:
 *** "It can be argued that..."
 
 By incorporating these phrases and expressions into your writing, you can create a **more structured, coherent, and advanced essay** that is likely to score higher in the IELTS Writing test.
+
+### Formal Contrasting Pairs
+* Orderly and Chaotic
+* Elegant and Unrefined
+* Refined and Raw
+* Precise and Ambiguous
+* Traditional and Modern
+* Sophisticated and Simple
+* Consistent and Erratic
+* Structured and Fluid
+* Dignified and Informal
+* Reserved and Bold
+* Innovation and Risk
+* Success and Setback
+* Hope and Uncertainty
+* Development and Danger
+* Prosperity and Threat
+* Advancement and Pitfall
+* Achievement and Obstacle
+* Evolution and Hazard
+  
+* Proactive and collaborative approach
+* extraordinary potential and the existential risks
+* progress and peril
+* Opportunity and Challenge
+* Growth and Adversity
+* Development and Deployment
+* prosperous and equitable future
+* catastrophic or dystopian outcomes
+* transparency and accountability
+* dialogue and debate 
