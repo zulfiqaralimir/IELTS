@@ -136,4 +136,6 @@ By incorporating these phrases and expressions into your writing, you can create
 * prosperous and equitable future
 * catastrophic or dystopian outcomes
 * transparency and accountability
-* dialogue and debate 
+* dialogue and debate
+
+**Snake slithers across golf green**
