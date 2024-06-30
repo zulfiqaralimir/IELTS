@@ -6,7 +6,7 @@ This repository contains resources and materials to help prepare for the IELTS e
 ## Writing Section
 ## Speaking  Section
 
-## 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐭𝐨 𝐄𝐱𝐜𝐞𝐥 𝐭𝐡𝐞 𝐈𝐄𝐋𝐓𝐒 𝐄𝐱𝐚𝐦  on June 30, 2024](https://www.facebook.com/iCodeguru/videos/509639381631881)
+## [𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐭𝐨 𝐄𝐱𝐜𝐞𝐥 𝐭𝐡𝐞 𝐈𝐄𝐋𝐓𝐒 𝐄𝐱𝐚𝐦  on June 30, 2024](https://www.facebook.com/iCodeguru/videos/509639381631881)
 
 # [ASAD YAQUB](https://www.youtube.com/@AsadYaqubOfficial)
 
