@@ -144,5 +144,6 @@ By incorporating these phrases and expressions into your writing, you can create
 **octopus scuttles evade predators**
 
 **a car is *pelted* by golf-ball sized hail**
+**Pakistan is poised to strike another significant deal soon.**
 
 **Baffled Woman**
