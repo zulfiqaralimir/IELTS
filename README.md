@@ -6,6 +6,8 @@ This repository contains resources and materials to help prepare for the IELTS e
 ## Writing Section
 ## Speaking  Section
 
+[Webinar on June 30, 2024](https://www.facebook.com/iCodeguru/videos/509639381631881)
+
 # [ASAD YAQUB](https://www.youtube.com/@AsadYaqubOfficial)
 
 
