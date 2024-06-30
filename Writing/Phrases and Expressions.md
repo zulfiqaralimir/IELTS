@@ -141,3 +141,4 @@ By incorporating these phrases and expressions into your writing, you can create
 
 **snake slithers into a ground squirrel burrow**
 **octopus scuttles evade predators**
+**a car is *pelted* by golf-ball sized hail**
